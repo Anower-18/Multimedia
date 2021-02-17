@@ -1,0 +1,141 @@
+SplineFontDB: 3.2
+FontName: Untitled1
+FullName: Untitled1
+FamilyName: Untitled1
+Weight: Regular
+Copyright: Copyright (c) 2021, ANOWER HOSSAIN
+UComments: "2021-2-18: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 119 1208374754 2894]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1613586497
+ModificationTime: 1613592662
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+DEI: 91125
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 2403 27 9
+BeginChars: 65536 2
+
+StartChar: uni0985
+Encoding: 2437 2437 0
+Width: 1153
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+754 362 m 1048
+798 551 m 0
+ 793.925858138 546.300212459 835.615283628 468.501781992 844 472 c 9
+ 998 310 l 25
+ 1006 656 l 25
+ 966 652 l 1
+ 966 652 354.016601562 652.626953125 51 655 c 1
+ 51 655 24 721 21 724 c 8
+ 1134 726 l 25
+ 1104 648 l 25
+ 1063 654 l 25
+ 1062 183 l 1
+ 835 430 l 25
+ 760 358 l 25
+ 690 261 l 1025
+798 551 m 25
+ 741 598 l 25
+ 669 631 l 25
+ 669 631 605 651 564 646 c 24
+ 516 640 486.000000005 644.279744799 447 609 c 1
+ 417.125620476 582 405.657454782 554.999999999 396 528 c 1037
+396 528 m 4
+ 387.347410377 499.925980852 446.997070312 478.809570312 452 501 c 5
+ 492 565 l 25
+ 571 604 l 1
+ 611.828125 594.3671875 641.746802858 579.381475923 678 567 c 1
+ 722.727299913 541.403917929 709.418121018 507.210085968 723 477 c 9
+ 699 378 l 25
+ 651 303 l 25
+ 582 228 l 25
+ 477 195 l 25
+ 369 213 l 25
+ 294 294 l 25
+ 264 363 l 25
+ 234 447 l 25
+ 210 528 l 25
+ 198 615 l 25
+ 195 654 l 25
+ 135 603 l 25
+ 141 537 l 25
+ 162 462 l 25
+ 186 393 l 25
+ 237 297 l 25
+ 285 222 l 25
+ 381 159 l 25
+ 492 150 l 25
+ 612 183 l 25
+ 690 261 l 1049
+EndSplineSet
+EndChar
+
+StartChar: uni0995
+Encoding: 2453 2453 1
+Width: 1264
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+616 495 m 24
+ 682 440 738.129337839 427.08246911 784 355 c 0
+ 798 333 785 336 776 311 c 24
+ 765 282 705.012107604 231.092740505 736 227 c 0
+ 789 220 834 242 856 291 c 24
+ 877 337 844 395 820 415 c 0
+ 628 535 l 25
+ 620 567 l 25
+ 900 563 l 25
+ 948 647 l 25
+ 68 647 l 1049
+560 487 m 25
+ 560 163 l 25
+ 384 255 l 25
+ 368 311 l 25
+ 512 495 l 25
+ 536 499 l 25
+ 560 487 l 25
+68 647 m 0
+ 68 643 112 571 112 571 c 25
+ 484 563 l 25
+ 220 291 l 25
+ 280 195 l 25
+ 640 31 l 25
+ 628 495 l 1049
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
